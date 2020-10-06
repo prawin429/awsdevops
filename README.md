@@ -187,4 +187,4 @@ The build script simply compiles each class with the Java Compiler ``javac`` and
 Only files required to run the application are included in the WAR. Uncompiled java classes and configuration files in ``.ebextensions/inactive`` are excluded.
 
 A Windows version of the build script ``build-windows.sh`` is also included. Note that the classpath arguments are separated by semicolons instead of colons.
-hhhh
+hhhhggggg
